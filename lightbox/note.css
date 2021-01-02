@@ -1,0 +1,6 @@
+/* Ta có thể dùng lightbox nếu dùng đúng tên folder (ở bài này api này xài folder có tên là image
+ * mà ta xài là img, nên là dấu mũi tên next/pre/close,... nó không chạy, nên là ta fix bằng cách:
+    1. Đặt cho đúng tên folder, hoặc xài cách 2  
+    2. Đặt tất cả các img, css, js của lightbox api vào chung 1 folder có tên là lightbox, xong đặt các
+    folder con đúng yêu cầu của API đòi.
+*/
